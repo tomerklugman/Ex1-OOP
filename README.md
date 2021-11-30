@@ -20,5 +20,5 @@ py Ex1.py B1.json Calls_a.csv out.csv
 ```
 then we get output file and run the simulator on it
 ```sh
-java -jar Ex1_checker_V1.2_obf.jar 312723612 B1.json out.csv out.log
+java -jar Ex1_checker_V1.2_obf.jar 123456789 B1.json out.csv out.log
 ```
